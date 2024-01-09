@@ -8,7 +8,7 @@
 ## Table of Content
 * [Project Description](#PD)
 * [Experiment settings](#EX)
-* [To do](#DO)
+  <!-- * [To do](#DO) -->
 * [Contributors](#CN)
 * [Reference](#RF)
 
