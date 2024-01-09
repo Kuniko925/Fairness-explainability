@@ -27,7 +27,7 @@
 * Perform explainability methods
 * Calculate coverage estimation
 * Plot the correlation between skin types and coverage estimation
-* 
+
 ### Skin color distribution process
 * Estimate average color-channels values
 * Calculate distribution shift distance from the highest color-channnels values by statistic distance methods
@@ -36,7 +36,7 @@
 * Perform explainability methods
 * Calculate coverage estimation
 * Plot the correlation between skin color distribution and coverage estimation
-* 
+
 <a id = "DO"></a>
 
 <!--
