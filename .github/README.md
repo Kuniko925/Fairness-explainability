@@ -4,6 +4,7 @@
 * [Project Description](#PD)
 * [Experiment settings](#EX)
 * [To do](#DO)
+* [Contributors]
 * [Reference](#RF)
 
 <a id = "PD"></a>
@@ -33,7 +34,10 @@ In this project, we have two types of experiments: (1) observing the effects ski
 [] a 
 [] b
 [] c
-
+<a id = "CN"></a>
+## Contributors:
+Kuniko Paxton<br>
+Dr Koorosh Aslansefat
 <a id = "RF"></a>
 ## Reference
 [1] Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.<br>
