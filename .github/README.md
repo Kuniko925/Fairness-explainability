@@ -53,10 +53,11 @@ Dr Koorosh Aslansefat
 
 <a id = "RF"></a>
 ## Reference
-[1] Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.<br>
-[2] Aslansefat, Koorosh, et al. "Explaining black boxes with a SMILE: Statistical Model-agnostic Interpretability with Local Explanations." IEEE Software (2023).
+<p align="justify">[1] Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. ""Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.</p>
+<p align="justify">[2] Aslansefat, Koorosh, et al. "Explaining black boxes with a SMILE: Statistical Model-agnostic Interpretability with Local Explanations." IEEE Software (2023).</p>
 
 ## Aknowledgement
 We would like to thank Responsible AI Hull Research Group and DAIM at University of Hull for their support.
+
 ## License
 This framework is available under an MIT License.
