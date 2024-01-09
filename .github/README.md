@@ -21,6 +21,6 @@ This project aims to identify potential unfairness hidden in the machine learnin
 [2] Aslansefat, Koorosh, et al. "Explaining black boxes with a SMILE: Statistical Model-agnostic Interpretability with Local Explanations." IEEE Software (2023).
 
 ## Aknowledgement
-We would like to thank DAIM, Responsible AI Hull Research Group at University of Hull for their support.
+We would like to thank Responsible AI Hull Research Group and DAIM at University of Hull for their support.
 ## License
 This framework is available under an MIT License.
