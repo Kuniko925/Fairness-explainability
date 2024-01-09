@@ -52,7 +52,7 @@ Kuniko Paxton<br>
 Dr Koorosh Aslansefat
 
 <a id = "RF"></a>
-## Reference
+## Reference to XAI Method Used
 <a id = "ref1"></a>
 <p align="justify">[1] Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. ""Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.</p>
 <a id = "ref2"></a>
