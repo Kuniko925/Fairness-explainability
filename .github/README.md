@@ -58,6 +58,9 @@ Dr Koorosh Aslansefat
 <a id = "ref2"></a>
 <p align="justify">[2] Aslansefat, Koorosh, et al. "Explaining black boxes with a SMILE: Statistical Model-agnostic Interpretability with Local Explanations." IEEE Software (2023).</p>
 
+## Related Projects
+* [Fairness-and-Explainability-CFA](https://github.com/YuyingZhao/FairExplanations-CFA) 
+
 ## Aknowledgement
 We would like to thank Responsible AI Hull Research Group and DAIM at University of Hull for their support.
 
